@@ -29,6 +29,27 @@ The program includes basic error handling:
 
 •	If the key is not a number or is not between 1 and 12, the program will also raise a ValueError.
 
+## Installation
+
+To set up the Cipher Generator on your local machine, follow these steps:
+
+
+### Steps
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Jordenproject/Cipher-Generator.git
+
+  
+### Navigate to the Project Directory:
+cd Cipher-Generator
+### Run the Project: Execute the following command to run the Cipher Generator
+python cipher_generator.py
+
+### Enjoy using the Cipher Generator!
+Feel free to adjust any part of it as needed for your project! If you need any more assistance, just let me know.
+
+
+
 
 
 
