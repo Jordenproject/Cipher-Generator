@@ -1,13 +1,2 @@
-Cipher Generator
-Overview
-This Python program is a simple Cipher Generator that takes user input in the form of a word and a key (based on the user's birth month). The program will then generate a ciphertext by shifting the letters of the word by a number of positions specified by the key.
-How It Works
-1.	The user enters a word to be converted into ciphertext.
-2.	Any spaces in the word are removed, and all letters are converted to lowercase.
-3.	The user is prompted to enter a key (a number between 1 and 12, based on their birth month).
-4.	The program performs the following checks:
-o	The word must only contain letters.
-o	The key must be a valid number between 1 and 12.
-5.	Each letter in the word is shifted along the alphabet by the number specified in the key.
-6.	The resulting ciphertext is displayed.
-![image](https://github.com/user-attachments/assets/f8097bc7-1a62-4112-8761-10bac12cb860)
+# ** Cipher Generator**![image](https://github.com/user-attachments/assets/34f8eda1-f2b8-49f6-b5ba-465773da722f)
+
