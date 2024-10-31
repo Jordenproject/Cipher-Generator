@@ -1,2 +1,13 @@
-# Cipher-Generator
-This repository contains a simple Python-based Caesar Cipher Generator. It takes user input to create a ciphertext by shifting each character in the input word by a specified number of positions in the alphabet. The shift amount is determined by the user's birth month. 
+Cipher Generator
+Overview
+This Python program is a simple Cipher Generator that takes user input in the form of a word and a key (based on the user's birth month). The program will then generate a ciphertext by shifting the letters of the word by a number of positions specified by the key.
+How It Works
+1.	The user enters a word to be converted into ciphertext.
+2.	Any spaces in the word are removed, and all letters are converted to lowercase.
+3.	The user is prompted to enter a key (a number between 1 and 12, based on their birth month).
+4.	The program performs the following checks:
+o	The word must only contain letters.
+o	The key must be a valid number between 1 and 12.
+5.	Each letter in the word is shifted along the alphabet by the number specified in the key.
+6.	The resulting ciphertext is displayed.
+![image](https://github.com/user-attachments/assets/f8097bc7-1a62-4112-8761-10bac12cb860)
